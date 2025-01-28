@@ -16,9 +16,10 @@ This Python script converts Google Sheets data into a JSONL format, specifically
 2. Install dependencies:
    pip install -r requirements.txt
 3. Place your Google Sheets API credentials (`credentials.json`) in the project directory.
-4. Modify `fileConverter.py` to include your Google Sheets document ID.
-5. Run the script:
+4. Run the script:
    python fileConverter.py
+5. Enter your Google Sheets document ID.
+   The script will prompt you to enter your Google Sheets document ID.
 
 ## Sample Output
 ```jsonl
