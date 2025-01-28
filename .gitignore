@@ -1,0 +1,9 @@
+# sensitive file
+credentials.json
+
+# Python cache file
+__pycache__/
+*.pyc
+
+# test output file
+output.jsonl
